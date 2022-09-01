@@ -1,0 +1,35 @@
+/* global rules*/
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(83, 209, 131);
+}
+
+/* Navigation */
+section#navigation {
+  
+  width: 100%;
+}
+
+/* navbar */
+
+#nav-bar ul {
+  margin-left: 20px;
+  list-style-type: none;   
+}
+
+#nav-bar ul li {
+  float: left;
+  padding: 10px;  
+}
+
+#nav-bar ul li a {
+  display: block;
+  text-decoration: none;
+  color: rgb(78, 18, 21);
+  background-color: rgb(232, 193, 76);
+  font-size: 20px;
+}
+
+
